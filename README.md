@@ -1,0 +1,2 @@
+# Travel_website
+This project is based on how an effective travel website will make us feel.   This website contains  highlights of some important places along with high-quality photography  and allows people to book their dream destination within their budgets.  It also includes full customer support, an easy packages, book as  per your time choice, full virtual tour of place through different videos and images.
